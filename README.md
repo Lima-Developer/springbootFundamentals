@@ -8,7 +8,7 @@
   <li><a href="#">Créditos</a></li>
 </ol>
 <h2 id="Description">Descrição</h2>
-<p>Esta API RESTful foi desenvolvida para a prática e fixação de seus fundamentos. A API permite o cadastro de produtos e a leitura, atualização e remoção dos produtos cadastrados. Ademais foram implementadas HyperLinks para o cumprimento do nível 4 de Maturidade de Richardson.</p>
+<p>Esta API RESTful foi desenvolvida para a prática e fixação de seus fundamentos. A API permite o cadastro de produtos e a leitura, atualização e remoção dos produtos cadastrados. Ademais foram implementadas HyperMedias para o cumprimento do nível 4 de Maturidade de Richardson.</p>
 <h2 id="Functions">Funcionalidades</h2>
 <ul>
   <li>Registro de Produtos</li>
